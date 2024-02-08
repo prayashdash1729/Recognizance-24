@@ -1,4 +1,4 @@
-<!-- [![Prastuti]()](https://www.prastuti.in/) -->
+[![Prastuti](./assets/recog_wide.png)](https://www.prastuti.in/)
 
 
 # Recognizance'24
